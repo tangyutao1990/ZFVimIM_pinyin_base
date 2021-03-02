@@ -1,2 +1,13 @@
-de 1
-wo 1
+bu 1
+cuo 1
+de 2
+dian 1
+gan 1
+ge 1
+jia 1
+jue 1
+que 1
+shi 1
+wo 2
+you 1
+zhe 1
